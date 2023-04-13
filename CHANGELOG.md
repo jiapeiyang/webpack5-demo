@@ -1,5 +1,7 @@
 
 
+## [1.1.1](https://github.com/jiapeiyang/webpack5-demo/compare/1.1.0...1.1.1) (2023-04-13)
+
 # 1.1.0 (2023-04-13)
 
 
